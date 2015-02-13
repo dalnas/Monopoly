@@ -1,0 +1,2 @@
+# Monopoly
+Software Patterns Assignment. 
